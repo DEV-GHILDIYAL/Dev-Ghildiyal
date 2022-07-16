@@ -1,0 +1,11 @@
+*************************************************** PROJECTS *************************************************
+
+. C Programming Projects
+. C++ Programming Projects
+. C# Programming Projects
+. Python Programming Projects
+. Java Programming Projects
+. JavaScript Programming Projects
+. Web Development Projects
+. App Development Projects
+. Game Development Projects
